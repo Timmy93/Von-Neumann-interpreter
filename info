@@ -1,0 +1,20 @@
+#1 -> Abilitare autocorrezione VN
+fase1 1
+
+#1 -> Abilitare Controllo correttezza Sintassi VN
+fase2 1
+
+#1 -> Abilitare scrittura file per debug di VN
+debug 1
+
+#1 -> Abilitare conferma chiusura del programma
+conferma 0
+
+#Nome del programma VN corretto
+sostVN correzione.vn
+
+#Riga di inizio per il conteggio delle righe
+riga_inizio 1
+
+#1 -> Abilita la visualizzazione dei nastri a fine esecuzione del programma
+mostra_nastri 1
